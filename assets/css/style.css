@@ -1,0 +1,27 @@
+*div{
+    margin: 50px;
+    width: 200px;
+    height: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+.imagens{
+    
+       
+        display: flex;
+        gap: 50px; 
+       
+}
+
+.imagem-pequena {
+    width: 329px; 
+    height: auto; 
+    font-size: small 6px;
+
+}
+
+
+    
+
+ 
